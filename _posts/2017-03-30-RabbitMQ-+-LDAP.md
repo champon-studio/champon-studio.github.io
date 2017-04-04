@@ -1,7 +1,7 @@
 ---
 
 title: "RabbitMQ + LDAP"
-post_author: ferrisky
+author: ferrisky
 tags: rabbitmq
  
 ---
