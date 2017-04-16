@@ -5,6 +5,7 @@ author: ferrisky
 tags: Java, OOP, OOAD, Design Pattern
  
 ---
+The way to use StAX in more flexiable and smarter.
 
 # Introduction
 
@@ -163,5 +164,5 @@ public class BasicXMLValueListCollector extends XMLDataCollector<List<String>>{
 
 In genernal, the solution used here is not a complicated one, it combines Java Generics, Strategy pattern, Delegation template, and anonymous class in Java. Actually, the solution could be better, but the real-world of softare system is always a trade-off between project resources and design materials. This solution is good enough for me, and old style methods can be easy converted to new one.
 <center>
-### *`Little effort, huge gains`*
+Little effort, huge gains
 </center>
